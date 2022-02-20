@@ -932,6 +932,7 @@
                 <!-- <module>java-ee-8-security-api</module> --> <!-- long running -->
 
                 <module>javafx</module>
+                <module>java-errors</module>
                 <module>java-jdi</module>
                 <module>java-lite</module>
                 <module>java-numbers</module>
